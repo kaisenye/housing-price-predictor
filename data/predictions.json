@@ -1,0 +1,44 @@
+[
+  {
+    "squareFootage": 800,
+    "numBedrooms": 2,
+    "predictedPrice": 148223,
+    "timestamp": "2025-05-21T23:20:06.774Z"
+  },
+  {
+    "squareFootage": 2000,
+    "numBedrooms": 4,
+    "predictedPrice": 321776,
+    "timestamp": "2025-05-21T23:26:42.879Z"
+  },
+  {
+    "squareFootage": 2000,
+    "numBedrooms": 10,
+    "predictedPrice": 354539,
+    "timestamp": "2025-05-21T23:29:18.475Z"
+  },
+  {
+    "squareFootage": 4000,
+    "numBedrooms": 10,
+    "predictedPrice": 625592,
+    "timestamp": "2025-05-21T23:29:23.957Z"
+  },
+  {
+    "squareFootage": 1000,
+    "numBedrooms": 2,
+    "predictedPrice": 175328,
+    "timestamp": "2025-05-21T23:39:11.216Z"
+  },
+  {
+    "squareFootage": 1000,
+    "numBedrooms": 2,
+    "predictedPrice": 175328,
+    "timestamp": "2025-05-21T23:39:25.865Z"
+  },
+  {
+    "squareFootage": 1000,
+    "numBedrooms": 4,
+    "predictedPrice": 186250,
+    "timestamp": "2025-05-21T23:39:33.539Z"
+  }
+]
